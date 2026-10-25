@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/italki-amanda//_next/:path+",
-        "destination": "/italki-amanda/_next/:path+"
+        "source": "/italki-amanda-la3p7xgi//_next/:path+",
+        "destination": "/italki-amanda-la3p7xgi/_next/:path+"
       }
     ],
     "fallback": []
